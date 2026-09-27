@@ -15,10 +15,11 @@ nano ~/.bashrc  crear atajos rerminal
 
         --ATAJOS TERMINAL--
 nano ~/.bashrc #abrir archivo atajos
-alias ll='ls -alF'
-alias gcmt='git commit -m'
+alias gcmt='git commit -m
 alias gcl='git clone'
 alias gadd='git add'
+alias gst='git status'
+alias gph=git push'
 source ~/.bashrc #cargar atajos
 
 ---------------------------------------------------------------------
